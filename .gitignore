@@ -161,5 +161,6 @@ cython_debug/
 
 src/data/download/*
 src/data/corpus.txt
+src/data/words.txt
 src/data/*.json
 src/model/model.net
