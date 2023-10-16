@@ -3,7 +3,6 @@ import numpy as np
 import os
 import sys
 import torch
-from dataclasses import dataclass, field
 from spellchecker import SpellChecker
 from src.model.model import CharRNN
 
